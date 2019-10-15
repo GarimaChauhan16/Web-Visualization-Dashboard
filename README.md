@@ -1,6 +1,3 @@
-https://GarimaChauhan16.github.io
-
-
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
